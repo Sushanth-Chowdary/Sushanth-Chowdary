@@ -28,7 +28,7 @@
 
 ### 🛠️ Featured Projects
 
-*   🔴 **[Autonomous Mars Rover](https://github.com/Sushanth-Chowdary)** — 4-layer power PCB + 2-layer control PCB, 22.2V LiPo power system, six planetary gear motors, and a Jetson Orin Nano for the brains.
+*   🔴 **Autonomous Mars Rover** — 4-layer power PCB + 2-layer control PCB, 22.2V LiPo power system, six planetary gear motors, and a Jetson Orin Nano for the brains.
 *   🌫️ **Real-Time AQI Monitor** — PM1/PM2.5 sensing, custom KiCad boards, with data piped over LoRa → ESP32 → cloud.
 *   ⌚ **Distraction Monitoring Wristband** — Built during the TI BYTE program; handled the detection algorithm, schematic, and firmware from end to end.
 *   💻 **Full-Stack Task Manager** — React + Node + Express + PostgreSQL, featuring proper JWT authentication.
