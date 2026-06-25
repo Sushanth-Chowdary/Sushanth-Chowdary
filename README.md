@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="180" alt="Cute Waving GIF">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlkYWs2ZGR6dmJjbXRxMHcxMWNqYmZ4aG1xMHY1Ynk2ejB4M290NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="180" alt="Cute Waving GIF">
 
   # ✨ Hi there! I'm Sushanth Chowdary ✨
 
@@ -9,7 +9,7 @@
   I'm an Electrical Engineering student at IIT Tirupati who loves bringing ideas to life — whether that's wiring up hardware, laying out a PCB at 2 AM, or writing code that actually works on the first try (rare, but it happens).</p>
 
   <a href="https://www.linkedin.com/in/sushanth-chowdary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ee23b044@iittp.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:pulivarthisushanthchowdary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 
 *   🚀 **Building:** Designing the dual-PCB architecture for an autonomous Mars Rover prototype — bridging the 4-layer power board and 2-layer control board with a precise 20-pin interface (6 PWM + 6 DIR + 6 Signal + 2 GND).
 *   📡 **Tinkering:** Engineering real-time AQI monitors with custom sensor PCBs, and utilizing root locus diagrams to align resonant frequencies perfectly at 4.8 GHz.
-*   🧠 **Mentored:** Came out of the Texas Instruments BYTE program and mentorship under Texas Professor Ramanujan with a custom-built distraction-monitoring wristband and a healthy respect for Laplace transforms.
+*   🧠 **Mentored:** Came out of the Texas Instruments BYTE program and mentorship under Professor Ramanujan of Texas with a custom-built distraction-monitoring wristband and a healthy respect for Laplace transforms.
 *   ✍️ **Writing:** Editing technical articles on Wikipedia, because explaining complex concepts clearly is half the fun of engineering.
 *   🎮 **Chilling:** Exploring new AI tools or farming credits in Honkai: Star Rail when the lab finally lets me go home.
 
