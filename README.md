@@ -2,38 +2,38 @@
   
   # 👋 Hi there, I'm Sushanth Chowdary
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student+⚡;Full-Stack+Developer+💻;Hardware+%2B+Software+Enthusiast+🤖)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=I+Design+Circuits+⚡;I+Program+Systems+💻;I+Build+Robots+🤖)](https://git.io/typing-svg)
 
-  <p>Bridging the gap between physical hardware and complex software. <br> I love building everything from autonomous robotics to algorithmic trading engines!</p>
+  <p>I thrive at the intersection of hardware and software. From designing complex circuit architectures to programming the logic that runs them, I am obsessed with building systems that actually work.</p>
   
   <a href="https://www.linkedin.com/in/sushanth-chowdary/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
 
-*   🎓 B.Tech in **Electrical Engineering** at IIT Tirupati 
-*   🔭 Currently working on a **4-layer PCB Autonomous Mars Rover** and a **Real-Time AQI Monitoring System**.
-*   ⚡ Fun fact: When I'm not calculating noise margins or debugging React, I'm probably climbing the ranks in **Honkai: Star Rail**.
-*   💬 Ask me about: **Deep Learning, C++, Robotics, or Circuit Design.**
+*   🛠️ **I Design:** Architecting 4-layer PCBs, engineering custom 20-pin interfaces for robotic logic, and simulating antennas with a sharp 4.8 GHz resonant frequency.
+*   💻 **I Program:** Developing full-stack web applications, coding deep learning pipelines, and writing algorithmic trading scripts. 
+*   🤖 **I Build:** Physically assembling and wiring autonomous robotics—proud winner of the Sovaran and Line Following challenges at the Tachyon tech festival!
+*   ⚡ **Fun Fact:** When I'm out of the lab, I'm usually testing out new AI development tools or grinding for Clockie credits in Honkai: Star Rail.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Arsenal
 
 **Languages & Core**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-**Web Development**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Web Development & AI**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 **Hardware & Engineering**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-%23315cb0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushanth-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -43,5 +43,5 @@
 <br>
 
 <div align="center">
-  <i>Let's build something awesome together! Feel free to review my code or leave feedback.</i>
+  <i>Always down to collaborate on deep learning, robotics, or hardware dev. Let's build something awesome!</i>
 </div>
