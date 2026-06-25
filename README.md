@@ -1,5 +1,7 @@
 <div align="center">
   
+  <img src="https://media.tenor.com/V_a1240G29gAAAAC/hello-hi.gif" width="180" alt="Cute Waving GIF">
+
   # ✨ Hi there! I'm Sushanth Chowdary ✨
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Making+robots+go+beep+boop+🤖;Tinkering+with+circuits+⚡;Building+cool+web+apps+🌸)](https://git.io/typing-svg)
@@ -33,15 +35,8 @@
 
 ---
 
-### 💌 Let's Connect!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushanth-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanth-Chowdary&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
-
 <br>
 
 <div align="center">
-  <i>I'm always down to make new friends or collaborate on deep learning, robotics, or hardware dev. Feel free to say hi! ☕</i>
+  <i>Feel free to fork or collaborate on any of my projects! I'm always happy to build cool things together. 🛠️✨</i>
 </div>
