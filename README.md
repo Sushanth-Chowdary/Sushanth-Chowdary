@@ -11,12 +11,12 @@
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
-*   🛠️ **I Design:** Architecting 4-layer PCBs, engineering custom 20-pin interfaces for robotic logic, and simulating antennas with a sharp 4.8 GHz resonant frequency.
-*   💻 **I Program:** Developing full-stack web applications, coding deep learning pipelines, and writing algorithmic trading scripts. 
-*   🤖 **I Build:** Physically assembling and wiring autonomous robotics—proud winner of the Sovaran and Line Following challenges at the Tachyon tech festival!
-*   ⚡ **Fun Fact:** When I'm out of the lab, I'm usually testing out new AI development tools or grinding for Clockie credits in Honkai: Star Rail.
+*    **I Design:** Architecting multi-layered PCBs, engineering custom 20-pin interfaces for robotic logic, and simulating antennas with a sharp 4.8 GHz resonant frequency.
+*    **I Program:** Developing full-stack web applications, coding deep learning pipelines, and writing algorithmic trading scripts. 
+*    **I Build:** Physically assembling and wiring autonomous robotics—proud winner of the Sovaran and Line Following challenges at the Tachyon tech festival!
+*    **Fun Fact:** When I'm out of the lab, I'm usually testing out new AI development tools or grinding for Clockie credits in Honkai: Star Rail.
 
 ---
 
@@ -32,13 +32,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-%23315cb0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushanth-Chowdary&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushanth-Chowdary&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
 
 <br>
 
