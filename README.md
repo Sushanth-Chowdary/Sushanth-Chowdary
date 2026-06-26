@@ -1,10 +1,10 @@
 <div align="center">
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlkYWs2ZGR6dmJjbXRxMHcxMWNqYmZ4aG1xMHY1Ynk2ejB4M290NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="180" alt="Cute Waving GIF">
+  
 
   # ✨ Hi there! I'm Sushanth Chowdary ✨
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F472B6&center=false&vCenter=false&width=600&lines=Making+robots+go+beep+boop+🤖;Tinkering+with+circuits+⚡;Building+cool+web+apps+🌸)](https://git.io/typing-svg)
-
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlkYWs2ZGR6dmJjbXRxMHcxMWNqYmZ4aG1xMHY1Ynk2ejB4M290NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" width="180" alt="Cute Waving GIF">
   <p>Welcome to my little corner of GitHub! 🍃 <br>
   I'm an Electrical Engineering student at IIT Tirupati who loves bringing ideas to life — whether that's wiring up hardware, laying out a PCB at 2 AM, or writing code that actually works on the first try (rare, but it happens).</p>
 
